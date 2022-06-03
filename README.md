@@ -2,7 +2,7 @@
 
 统一中文文案、排版的相关用法，降低团队成员之间的沟通成本，增强网站气质。
 
-*本指南分叉自《[中文文案排版指北](https://github.com/sparanoid/chinese-copywriting-guidelines)》，与原指南有差异。
+*本说明分叉自《[中文文案排版指北](https://github.com/sparanoid/chinese-copywriting-guidelines)》，与原说明有差异。*
 
 * * *
 
