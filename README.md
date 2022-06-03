@@ -2,11 +2,7 @@
 
 统一中文文案、排版的相关用法，降低团队成员之间的沟通成本，增强网站气质。
 
-Other languages:
-
-- [英语](README.en.md)
-- [繁体中文](README.md)
-- [简体中文](README.zh-Hans.md)
+*本指南分叉自《[中文文案排版指北](https://github.com/sparanoid/chinese-copywriting-guidelines)》，与原指南有差异。
 
 * * *
 
@@ -123,9 +119,15 @@ CSS Text Module Level 4 的 [`text-spacing`](https://www.w3.org/TR/css-text-4/#t
 > 嗨! 你知道嘛? 今天前台的小妹跟我说 "喵" 了哎！
 >
 > 嗨!你知道嘛?今天前台的小妹跟我说"喵"了哎！
->
+
+### 中文后面英文注释，用半角括号，且前后空格
+
+正确：
+
 > 核磁共振成像 (NMRI) 是什么原理都不知道? JFGI!
->
+
+错误：
+
 > 核磁共振成像(NMRI)是什么原理都不知道?JFGI!
 
 ### 数字使用半角字符
@@ -199,6 +201,14 @@ CSS Text Module Level 4 的 [`text-spacing`](https://www.w3.org/TR/css-text-4/#t
 错误：
 
 > 我们需要一位熟悉 Ts、h5，至少理解一种框架（如 RJS、nextjs）的 FED。
+
+### 专有名词复数变单数
+
+> STARKs -> STARK
+
+### 首字母缩写专有名词需要大写
+
+> NFT；DeFi 之类注意大小写
 
 ## 争议
 
