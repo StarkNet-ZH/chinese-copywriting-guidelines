@@ -1,4 +1,4 @@
-# StarkNet 中文翻译指北
+# 「StarkNet 中文」翻译指北
 
 统一中文文案、排版的相关用法，降低团队成员之间的沟通成本，增强网站气质。
 
@@ -208,7 +208,7 @@ CSS Text Module Level 4 的 [`text-spacing`](https://www.w3.org/TR/css-text-4/#t
 
 ### 首字母缩写专有名词需要大写
 
-> NFT；DeFi 之类注意大小写
+> NFT、DeFi 等专有名词注意大小写
 
 ## 争议
 
